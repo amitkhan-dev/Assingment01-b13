@@ -279,6 +279,13 @@ justify-content: space-between;
   margin-bottom: 30px;
 }
 
+.checkbox li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+}
+
 
 
 
