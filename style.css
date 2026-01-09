@@ -255,6 +255,28 @@ justify-content: space-between;
 .footer-container {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 80px;
+}
+.social-link h4 {
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.social-link ul {
+  list-style-type: none;
+  display: flex;
+  gap: 8px;
+}
+
+.social-link ul a {
+  color: #ffffff;
+}
+
+#footer p {
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 30px;
 }
 
 
