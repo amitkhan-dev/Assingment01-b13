@@ -132,6 +132,7 @@ justify-content: space-between;
   justify-content: center;
   text-align: center;
   gap: 30px;
+
   
 }
 
@@ -169,5 +170,99 @@ justify-content: space-between;
 .card p {
   padding: 5px;
 }
+
+#brain-section {
+  margin: 120px 120px;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  align-items: center;
+}
+#brain-section .brain img {
+  width: 600px;
+  height: 600px;
+  margin-left: 120px;
+}
+
+#brain-section .brain-content {
+  margin: 120px 0 ;
+}
+
+.brain-content h4 {
+  color: #30B868;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.brain-content h2 {
+  color: #001931;
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.brain-content p {
+  color: #627382;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+.text ul {
+  list-style-type: none;
+  
+}
+
+.text ul li {
+  align-items: center;
+}
+
+#last-section {
+  width: 83%;
+  max-width: 1360;
+  background-color:#f9f5f5 ;
+  padding: 80px 40px;
+  border: 12px;
+  text-align: center;
+  align-items: center;
+  margin-left: 120px;
+  justify-content: center;
+  border-radius: 10px;
+  
+}
+
+#last-section h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+#last-section p {
+  color: #627382;
+  text-align: center;
+  margin-bottom: 40px;
+  
+}
+
+#footer {
+  width: 100%;
+  max-width: 1600px;
+  height: 350px;
+  background-color: #001931;
+  margin-top: 120px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 120px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
 
 
